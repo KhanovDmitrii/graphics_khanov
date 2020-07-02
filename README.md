@@ -58,7 +58,7 @@
 
 [Лабораторная 28. Фрагменты поверхностей Безье](https://github.com/KhanovDmitrii/graphics_khanov/tree/master/LB/LB28)
 
-[Лабораторная 30. Определение столкновений и моделирование законов физики(https://github.com/KhanovDmitrii/graphics_khanov/tree/master/LB/lb30])
+[Лабораторная 30. Определение столкновений и моделирование законов физики](https://github.com/KhanovDmitrii/graphics_khanov/tree/master/LB/lb30)
 
 [Лабораторная 31. Визуализация моделей Milkshape 3D](https://github.com/KhanovDmitrii/graphics_khanov/tree/master/LB/LB31)
 
