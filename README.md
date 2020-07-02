@@ -4,6 +4,8 @@
 
 ### Реферат
 
+[Реферат. Видеоигры в виртуальной реальности.](https://docs.google.com/document/d/1cjuepVB7_Laz9_ZDUFpxgtPOsE8RYEM4IQdMw69_OFU/edit?usp=sharing)
+
 ### Лабораторные работы
 
 [Лабораторная 1. Инициализация в Windows](https://github.com/KhanovDmitrii/graphics_khanov/tree/master/LB/LB1)
