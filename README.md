@@ -6,7 +6,7 @@
 
 ### Лабораторные работы
 
-[https://github.com/KhanovDmitrii/graphics_khanov/tree/master/LB/LB1](Лабораторная 1. Инициализация в Windows)
+[Лабораторная 1. Инициализация в Windows](https://github.com/KhanovDmitrii/graphics_khanov/tree/master/LB/LB1)
 
 [https://github.com/KhanovDmitrii/graphics_khanov/tree/master/LB/LB2](Лабораторная 2. Отображение полигонов)
 
